@@ -18,7 +18,7 @@
 
 |Lecture   | Times
 |:-------- |:------
-|Coor 5500 | Tu,Tr 12:00-13:15
+|Coor 5505 | Tu,Tr 12:00-13:15
 
 
 ----------
@@ -26,7 +26,7 @@
 
 
 ## Introduction
-This course will introduce the concepts and theories of animated-interactive cartography and geovisualization in a computationally based manner. To support the latter a major component of the course will rely several new visualization and mapping technologies for the web including cartopy (Python), Folium (Python), D3 (JavaScript) and Bokeh (Python),  among others.  In addition to a series of in-class exercises that introduce these technologies, students will apply their newly acquired technical skill sets to a final project in exploratory geovisualization.
+This course will introduce the concepts and theories of animated-interactive cartography and geovisualization in a computationally based manner. To support the latter a major component of the course will rely on several new visualization and mapping technologies for the web including cartopy (Python), Folium (Python), D3 (JavaScript) and Bokeh (Python),  among others.  In addition to a series of in-class exercises that introduce these technologies, students will apply their newly acquired technical skill sets to a final project in exploratory geovisualization.
 
 ## Objectives
 
@@ -93,8 +93,6 @@ Slocum, T.A., R.B. McMaster, F.C. Kessler and H.H. Howard (2009)Thematic Cartogr
 
 The course is organized into two  parts. In order to be able to develop your own geovisualizations it is vital that you first acquire basic software development skills together with a grounding in the domains of cartography and geovisualization. In Part I  we will cover fundamental concepts of cartographic theory and geovisualization on Tuesdays and then on Thursdays we will explore particular Python libraries that relate to each theoretical concept, and that can form key components of course projects. Part II  shifts to a studio format where we will focus on project based learning. Here you will apply your newly acquired (or enhanced) development skills to an empirical project developing a geovisualization product. This second part will also include additional theoretical and methodological concepts as needed.  
 
-## Schedule 
-
 
 | Week  | Date  | Topic                          | Due                       |
 |-------|-------|-------------------------------------------------------|---------------------------|
@@ -143,7 +141,7 @@ The ASU student academic integrity policy lists violations in detail. These viol
 http://provost.asu.edu/academicintegrity
 
 ### Code of Conduct
-As course instructor, I am dedicated dedicated to providing a harassment-free learning experience for all students, regardless of gender, sexual orientation, disability, physical appearance, body size, race, religion, or choice of operating system.  All course participants are expected to show respect and courtesy to other students  throughout the semester.  As a learning community we do not tolerate harassment of participants in any form.
+As course instructor, I am dedicated to providing a harassment-free learning experience for all students, regardless of gender, sexual orientation, disability, physical appearance, body size, race, religion, or choice of operating system.  All course participants are expected to show respect and courtesy to other students  throughout the semester.  As a learning community we do not tolerate harassment of participants in any form.
 
 All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate in this course.
 
