@@ -10,7 +10,7 @@
 |Dr. Sergio J. Rey | [www](https://geoplan.asu.edu/sergio-rey)
 |:-------- |:------
 |Office    |  Coor 5612
-|Hours     | Thu 14:00-15:00 or by appointment
+|Hours     | Tuesdays 14:00-15:00 or by appointment
 |email     | [Sergio.Rey@asu.edu](mailto:Sergio.Rey@asu.edu)
 
 
