@@ -98,7 +98,7 @@ The course is organized into two  parts. In order to be able to develop your own
 |-------|-------|-------------------------------------------------------|---------------------------|
 | 1     | 8.18  | Course Introduction            |                           |
 | 2     | 8.23  | [Geovisualization](/content/geovisualization.rst)               |                           |
-|       | 8.25  | [PySAL for Geographical Data Science](https://youtu.be/TY4QWnnd4jY) | Quiz 1                    |
+|       | 8.25  | [PySAL for Geographical Data Science](https://youtu.be/TY4QWnnd4jY) | [Quiz 1][q1]                    |
 | 3     | 8.30  | Projects Overview         |                           |
 |       | 9.1   | Software Installation     | Quiz 2                    |
 | 4     | 9.6   | Spatial Data Formats      | Project Selection         |
@@ -153,3 +153,7 @@ This code of conduct is an adaptation of the [SciPy 2016 Code of Conduct](http:/
 
 ### Disability accommodations
 Qualified students with disabilities who will require disability accommodations in this class are encouraged to make their requests to me at the beginning of the semester either during office hours or by appointment. Note: Prior to receiving disability accommodations, verification of eligibility from the Disability Resource Center (DRC) is required. Disability information is confidential.
+
+
+
+[q1]: https://myasucourses.asu.edu/webapps/blackboard/content/launchAssessment.jsp?course_id=_338703_1&content_id=_14242344_1&mode=cpview
