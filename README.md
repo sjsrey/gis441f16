@@ -103,13 +103,13 @@ The course is organized into two  parts. In order to be able to develop your own
 |       | 9.1   | Software Installation     | Quiz 2                    |
 | 4     | 9.6   | Spatial Data Formats      | Project Selection         |
 |       | 9.8   | Geoprocessing with PySAL  | Quiz 3                    |
-| 5     | 9.13  | Data Classification       | Discussion 1              |
+| 5     | 9.13  | [Data Classification Ch 3, 4][class]       | Discussion 1              |
 |       | 9.15  | PySAL Classifiers         | Quiz 4                    |
-| 6     | 9.20  | Color and Symbolization   | Discussion 2              |
+| 6     | 9.20  | [Color and Symbolization Ch 5, 10][class]   | Discussion 2              |
 |       | 9.22  | palletable                | Quiz 5                    |
-| 7     | 9.27  | Multivariate Maps         | Discussion 3              |
+| 7     | 9.27  | [Multivariate Maps Ch 18][class]        | Discussion 3              |
 |       | 9.29  | cartopy                   | Quiz 5                    |
-| 8     | 10.4  | Interactivity             | Discussion 4              |
+| 8     | 10.4  | [Interactivity  Ch 21, 22][class]           | Discussion 4              |
 |       | 10.6  | bokeh                     | Quiz 6                    |
 | 9     | 10.11 | *Fall Break*              |                           |
 |       | 10.13 | Requirements Analysis     |                           |
@@ -157,3 +157,4 @@ Qualified students with disabilities who will require disability accommodations 
 
 
 [q1]: https://myasucourses.asu.edu/webapps/blackboard/content/launchAssessment.jsp?course_id=_338703_1&content_id=_14242344_1&mode=cpview
+[class]: http://library.lib.asu.edu/search~S3?/pr/pr/1,36,60,B/frameset~4573787&FF=prey+s&1,1,
