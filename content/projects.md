@@ -44,7 +44,7 @@ You will have to select your project by class meeting time on September 6. These
 - save to graphics files
 - other forms of interactivity
 
-**Student**:
+**Student**: Austin Levy
 
 ---
 
