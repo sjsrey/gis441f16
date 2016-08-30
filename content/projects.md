@@ -99,6 +99,6 @@ NSF related project
 - animation
 - small multiples
 
-**Student**:
+**Student**: Ziqi Li
 
 ---
