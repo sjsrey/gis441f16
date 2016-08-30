@@ -80,7 +80,7 @@ You will have to select your project by class meeting time on September 6. These
 - extend to other types of PySAL spatial analytics
 
 
-**Student**: 
+**Student**: Corrine Rojas
 
 ---
 
