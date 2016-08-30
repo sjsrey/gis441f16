@@ -23,7 +23,7 @@ You will have to select your project by class meeting time on September 6. These
 - port to python 3
 
 
-**Student**:
+**Student**: Joseph Cruz
 
 ---
 
