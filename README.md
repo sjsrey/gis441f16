@@ -103,7 +103,7 @@ The course is organized into two  parts. In order to be able to develop your own
 |       | 9.1   | Software Installation     | Quiz 2                    |
 | 4     | 9.6   | Spatial Data Formats      | Project Selection         |
 |       | 9.8   | Geoprocessing with PySAL  | Quiz 3                    |
-| 5     | 9.13  | [Data Classification Ch 3, 4][class]       | Discussion 1              |
+| 5     | 9.13  | [Data Classification Ch 3, 4][class] [JC](https://github.com/joemCruz) | Discussion 1              |
 |       | 9.15  | PySAL Classifiers         | Quiz 4                    |
 | 6     | 9.20  | [Color and Symbolization Ch 5, 10][class]  [CR](https://github.com/corrinerojas) | Discussion 2              |
 |       | 9.22  | palletable                | Quiz 5                    |
