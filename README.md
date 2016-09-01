@@ -109,7 +109,7 @@ The course is organized into two  parts. In order to be able to develop your own
 |       | 9.22  | palletable                | Quiz 5                    |
 | 7     | 9.27  | [Multivariate Maps Ch 18][class]        | Discussion 3              |
 |       | 9.29  | cartopy                   | Quiz 5                    |
-| 8     | 10.4  | [Interactivity  Ch 21, 22][class] - ZL          | Discussion 4              |
+| 8     | 10.4  | [Interactivity  Ch 21, 22][class] - [ZL](https://github.com/c040120)          | Discussion 4              |
 |       | 10.6  | bokeh                     | Quiz 6                    |
 | 9     | 10.11 | *Fall Break*              |                           |
 |       | 10.13 | Requirements Analysis     |                           |
