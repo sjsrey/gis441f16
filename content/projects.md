@@ -65,7 +65,7 @@ You will have to select your project by class meeting time on September 6. These
 
 
 
-**Student**: 
+**Student**: Quan Zhou
 
 ---
 
