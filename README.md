@@ -101,7 +101,7 @@ The course is organized into two  parts. In order to be able to develop your own
 |       | 8.25  | [PySAL for Geographical Data Science](https://youtu.be/TY4QWnnd4jY) | Quiz 1                    |
 | 3     | 8.30  | [Projects Overview](/content/projects.md)         |                           |
 |       | 9.1   | [Software Installation](/content/environments.md)     | Quiz 2                    |
-| 4     | 9.6   | Spatial Data Formats      | Project Selection         |
+| 4     | 9.6   | [Spatial Data Formats](/content/data.md)      | Project Selection         |
 |       | 9.8   | Geoprocessing with PySAL  | Quiz 3                    |
 | 5     | 9.13  | [Data Classification Ch 3, 4][class] [JC](https://github.com/joemCruz) | Discussion 1              |
 |       | 9.15  | PySAL Classifiers         | Quiz 4                    |
