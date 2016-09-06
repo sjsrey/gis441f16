@@ -107,7 +107,7 @@ The course is organized into two  parts. In order to be able to develop your own
 |       | 9.15  | PySAL Classifiers         | Quiz 4                    |
 | 6     | 9.20  | [Color and Symbolization Ch 5, 10][class]  [CR](https://github.com/corrinerojas) | Discussion 2              |
 |       | 9.22  | palletable                | Quiz 5                    |
-| 7     | 9.27  | [Multivariate Maps Ch 18][class]        | Discussion 3              |
+| 7     | 9.27  | [Multivariate Maps Ch 18][class]  [QZ](https://github.com/UrsulaQuan)  | Discussion 3              |
 |       | 9.29  | cartopy                   | Quiz 5                    |
 | 8     | 10.4  | [Interactivity  Ch 21, 22][class] - [ZL](https://github.com/c040120)          | Discussion 4              |
 |       | 10.6  | bokeh                     | Quiz 6                    |
