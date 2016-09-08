@@ -8,6 +8,7 @@ We begin with vector based files including:
 - shapefiles
 - geojson
 - well known text
+- change
 
 We then move on to consider what are known as spatial weights that express geographical relationships between observational units. Here we will consider obtaining weights from some of the file types above, as well as reading and writing spatial weights file types directly.
 
