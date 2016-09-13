@@ -24,7 +24,6 @@
 ----------
 
 
-
 ## Introduction
 This course will introduce the concepts and theories of animated-interactive cartography and geovisualization in a computationally based manner. To support the latter a major component of the course will rely on several new visualization and mapping technologies for the web including cartopy (Python), Folium (Python), D3 (JavaScript) and Bokeh (Python),  among others.  In addition to a series of in-class exercises that introduce these technologies, students will apply their newly acquired technical skill sets to a final project in exploratory geovisualization.
 
