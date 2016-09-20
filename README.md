@@ -103,13 +103,13 @@ The course is organized into two  parts. In order to be able to develop your own
 | 4     | 9.6   | [Spatial Data Formats](/content/data.md)      | Project Selection         |
 |       | 9.8   | [Geoprocessing with PySAL](/content/gppysal.md)  | Quiz 3                    |
 | 5     | 9.13  | [Data Classification Ch 5][class] [JC](https://github.com/joemCruz) | Discussion 1              |
-|       | 9.15  | PySAL Classifiers         | Quiz 4                    |
+|       | 9.15  | [PySAL Classifiers][pysalclassifiers]        |                     |
 | 6     | 9.20  | [Color and Symbolization Ch 10][class]  [CR](https://github.com/corrinerojas) | Discussion 2              |
-|       | 9.22  | palletable                | Quiz 5                    |
+|       | 9.22  | PySAL Viz, ChoroBrewer    | Quiz 4+5                    |
 | 7     | 9.27  | [Multivariate Maps Ch 18][class]  [QZ](https://github.com/UrsulaQuan)  | Discussion 3              |
-|       | 9.29  | cartopy                   | Quiz 5                    |
+|       | 9.29  | STARS, Rank Paths                   | Quiz 5                    |
 | 8     | 10.4  | [Interactivity  Ch 20, 21][class] - [ZL](https://github.com/c040120)          | Discussion 4              |
-|       | 10.6  | bokeh                     | Quiz 6                    |
+|       | 10.6  | QGIS-PySAL                | Quiz 6                    |
 | 9     | 10.11 | *Fall Break*              |                           |
 |       | 10.13 | Requirements Analysis     |                           |
 | 10    | 10.18 | Requirements Analysis     |                           |
@@ -157,3 +157,4 @@ Qualified students with disabilities who will require disability accommodations 
 
 [q1]: https://myasucourses.asu.edu/webapps/blackboard/content/launchAssessment.jsp?course_id=_338703_1&content_id=_14242344_1&mode=cpview
 [class]: http://library.lib.asu.edu/search~S3?/pr/pr/1,36,60,B/frameset~4573787&FF=prey+s&1,1,
+[pysalclassifiers]: http://pysal.readthedocs.io/en/latest/library/esda/mapclassify.html
