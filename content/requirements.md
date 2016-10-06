@@ -54,7 +54,7 @@ The following outline is suggested for your RAD:
 
 ## Deadline
 
-Your final requirements analysis document must be submitted as a README.md file in the `requirements` directory of your github repos for the project. You will update the course file [projects.md](content/projects.md) to add a link to your final RAD document via a pull requrest to the course repose. **Your pull requrest needs to be submitted by 9 A.M. On October 20, 2016**.
+Your final requirements analysis document must be submitted as a README.md file in the `requirements` directory of your github repos for the project. You will update the course file [projects.md](projects.md) to add a link to your final RAD document via a pull requrest to the course repose. **Your pull requrest needs to be submitted by 9 A.M. On October 20, 2016**.
 
 ## Credits
 
