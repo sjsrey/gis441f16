@@ -113,10 +113,10 @@ The course is organized into two  parts. In order to be able to develop your own
 | 9     | 10.11 | *Fall Break*              |                           |
 |       | 10.13 | Requirements Analysis     |                           |
 | 10    | 10.18 | Requirements Analysis     |                           |
-|       | 10.20 | Project Design            | [Analysis Document](/content/requirements.md)         |
-| 11    | 10.25 | Project Design            |                           |
-|       | 10.27 | Prototype Development     | Design Document           |
-| 12    | 11.1  | Prototype Development     |                           |
+|       | 10.20 | Requirements Analysis     |                           |
+| 11    | 10.25 | Project Design            |  [Analysis Document](/content/requirements.md)         |                         
+|       | 10.27 | Project Design            |                           |
+| 12    | 11.1  | Prototype Development     | Design Document           |
 |       | 11.3  | Prototype Development     |                           |
 | 13    | 11.8  | Prototype Development     |                           |
 |       | 11.10 | Prototype Development     |                           |
