@@ -49,7 +49,7 @@ Each student will prepare a presentation on one of the key conceptual areas of t
 
 Quizzes  will be based on the textbook, assigned videos, and course discussions. These will be given during the first five minutes of class on the Thursdays beginning on week 2, Aug 25, through Oct 6.  There are not makeups for the quizzes. Quizzes are graded on a pass(5)/fail(0). Your overall quiz grade will be based on a maximum of 25 points .
 
-### Project 
+### Project
 The capstone of GIS441 will be a final project that integrates the theoretical and conceptual materials from the first half of the course together with your newly acquired technical skill sets.  Students will work on an individual project with the instructor as a collaborator to provide feedback and guidance as the project evolves. All projects will be presented on the date of the final. A short (2000-2500 words) paper describing the substantive topic and the development of the application are required. Full source code and data to reproduce the visualization must also be submitted on GitHub.  Details on the project will be given out in Week 3 of the semester.
 
 ### Participation
@@ -114,13 +114,13 @@ The course is organized into two  parts. In order to be able to develop your own
 |       | 10.13 | Requirements Analysis     |                           |
 | 10    | 10.18 | Requirements Analysis     |                           |
 |       | 10.20 | Requirements Analysis     |                           |
-| 11    | 10.25 | Project Design            |  [Analysis Document](/content/requirements.md)         |                         
+| 11    | 10.25 | Project Design            |           |                         
 |       | 10.27 | Project Design            |                           |
-| 12    | 11.1  | Prototype Development     | Design Document           |
+| 12    | 11.1  | Prototype Development     |            |
 |       | 11.3  | Prototype Development     |                           |
-| 13    | 11.8  | Prototype Development     |                           |
+| 13    | 11.8  | Prototype Development     |   [Analysis Document](/content/requirements.md)                        |
 |       | 11.10 | Prototype Development     |                           |
-| 14    | 11.15 | Testing                   |                           |
+| 14    | 11.15 | Testing                   |  Design Document          |
 |       | 11.17 | Testing                   |                           |
 | 15    | 11.22 | Product Implementation    | Testing Report            |
 |       | 11.24 | *Thanksgiving Holiday*    |                           |
